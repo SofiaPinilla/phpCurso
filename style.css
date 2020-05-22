@@ -1,0 +1,31 @@
+.contenedor {
+    font-family: "Shadows Into Light", Sans-serif;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(50, 231, 255);
+    color: white;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.titulo {
+    padding: 0.5em;
+    text-align: center;
+    color: white;
+    border-radius: 3em;
+    margin: 3em;
+    background-color: rgba(0, 0, 0, 0.158);
+    font-family: "Shadows Into Light", Sans-serif;
+}
+
+.platos {
+    font-family: "Shadows Into Light", Sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em;
+    margin: 1em;
+    background-color: whitesmoke;
+}

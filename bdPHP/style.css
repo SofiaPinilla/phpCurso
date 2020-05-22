@@ -1,0 +1,70 @@
+.platos {
+    font-family: "Shadows Into Light", Sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em;
+    margin: 1em;
+    background-color: whitesmoke;
+    font-size: 1em;
+}
+
+.titulo {
+    padding: 0.5em;
+    text-align: center;
+    margin: 0.3em;
+    font-family: "Shadows Into Light", Sans-serif;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    height: 70vh;
+    align-items: center;
+    width: 30vw !important;
+}
+
+.card {
+    margin: 1em;
+    padding: 1em;
+}
+
+.card-header {
+    font-size: 2em;
+}
+
+.enlace {
+    all: unset;
+    cursor: pointer;
+    color: white;
+    transition: 1s;
+}
+
+.enlace:hover {
+    all: unset;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.bg-info {
+    margin: 1em !important;
+}
+
+.container .row {
+    width: 20vw !important;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 30vw !important;
+}
+
+.card {
+    background-color: #413031 !important;
+}
